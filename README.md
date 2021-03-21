@@ -24,3 +24,5 @@
 
 - [ ] Fix the stupid Serial Monitor hack. It's probably some logging in the mod that's messing it up.
 - [ ] Get the screen working
+- [ ] Figure out how to work with multiple setting inputs
+- [ ] Fix reaction wheels setting, KRPC docs say it's boolean, but in practice looks like a multiple choice.
